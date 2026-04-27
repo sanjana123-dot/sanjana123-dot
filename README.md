@@ -1,7 +1,7 @@
 <div align="center">
   <h1>PASAM SANJANA</h1>
   <p>
-    <strong>+91 9912176239 | <a href="mailto:your_email_here">Email</a> | <a href="https://github.com/sanjana123-dot" target="_blank">GitHub</a> | <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a></strong>
+    <strong> <a href="mailto:your_email_here">Email</a> | <a href="https://github.com/sanjana123-dot" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/sanjana-pasam-46029a367/" target="_blank">LinkedIn</a></strong>
   </p>
 </div>
 
