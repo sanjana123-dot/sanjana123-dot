@@ -1,7 +1,7 @@
 <div align="center">
   <h1>PASAM SANJANA</h1>
   <p>
-    <strong> <a href="mailto:your_email_here">Email</a> | <a href="https://github.com/sanjana123-dot" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/sanjana-pasam-46029a367/" target="_blank">LinkedIn</a></strong>
+    <strong> <a href="sanjnapasam410@gmail.com">Email</a> | <a href="https://github.com/sanjana123-dot" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/sanjana-pasam-46029a367/" target="_blank">LinkedIn</a></strong>
   </p>
 </div>
 
