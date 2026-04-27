@@ -1,8 +1,7 @@
 <h1 align="center">👩‍💻 PASAM SANJANA</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b><br><br>
-  📍 Kankipadu, Andhra Pradesh, India <br><br>
+  <b>**Full Stack Developer**</b><br><br>
 
   <a href="mailto:your_email_here">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
