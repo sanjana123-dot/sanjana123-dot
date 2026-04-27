@@ -44,10 +44,10 @@ Jan 2026 – Present | Remote
 
 | Project Name | Description | Key Features | Technologies | Link |
 |-------------|-------------|--------------|--------------|------|
-| **HomeTown Hub** | A community networking platform connecting users from the same hometown. | - Secure authentication<br>- Event organization<br>- Responsive UI | React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS | [GitHub](https://github.com/sanjana123-dot) |
-| **HunarHub** | A digital portfolio and networking platform for showcasing professional talents. | - Interactive dashboard<br>- Profile management system<br>- Skill networking | Full Stack Web Technologies | [GitHub](https://github.com/sanjana123-dot) |
-| **VIT-AP Bus Tracking** | A real-time GPS mobile application designed to streamline campus commuting. | - Live bus tracking<br>- Passenger monitoring<br>- Route optimization | Java, Android Studio, GPS API | Project |
-| **Course Recommendation Chatbot** | AI-driven chatbot providing personalized course recommendations. | - NLP-based input analysis<br>- Personalized recommendations<br>- Improved accuracy | Python, Machine Learning, NLP, Flask/Streamlit | [GitHub](https://github.com/sanjana123-dot) |
+| **HomeTown Hub** | A community networking platform connecting users from the same hometown. | - Secure authentication<br>- Event organization<br>- Responsive UI | React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS | [GitHub](https://github.com/sanjana123-dot/HomeTown-Hub) |
+| **HunarHub** | A digital portfolio and networking platform for showcasing professional talents. | - Interactive dashboard<br>- Profile management system<br>- Skill networking | Full Stack Web Technologies | [GitHub](https://github.com/sanjana123-dot/Hunar--Hub) |
+| **VIT-AP Bus Tracking** | A real-time GPS mobile application designed to streamline campus commuting. | - Live bus tracking<br>- Passenger monitoring<br>- Route optimization | Java, Android Studio, GPS API | [GitHub](https://github.com/sanjana123-dot/vit-bus) |
+| **Course Recommendation Chatbot** | AI-driven chatbot providing personalized course recommendations. | - NLP-based input analysis<br>- Personalized recommendations<br>- Improved accuracy | Python, Machine Learning, NLP, Flask/Streamlit | [GitHub](https://github.com/sanjana123-dot/course-recommendation-bot) |
 
 ---
 
