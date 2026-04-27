@@ -1,138 +1,88 @@
-<h1 align="center">👩‍💻 PASAM SANJANA</h1>
+<div align="center">
+  <h1>PASAM SANJANA</h1>
+  <p>
+    <strong>+91 9912176239 | <a href="mailto:your_email_here">Email</a> | <a href="https://github.com/sanjana123-dot" target="_blank">GitHub</a> | <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a></strong>
+  </p>
+</div>
+
+---
+
+### <p align="center">About Me</p>
 
 <p align="center">
-  <b>Full Stack Developer</b><br><br>
-
-  <a href="mailto:your_email_here">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sanjana123-dot">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="tel:+919912176239">
-    <img src="https://img.shields.io/badge/Phone-%2B91%209912176239-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+  Full-Stack Developer skilled in Java, Python, C, Data Structures & Algorithms, web development, and Machine Learning. Experienced in building end-to-end applications with a strong focus on performance optimization, scalability, and system design. Actively seeking opportunities to contribute to impactful and innovative products.
 </p>
 
 ---
 
-## 🚀 About Me
-<p align="center">
-Full-Stack Developer skilled in <b>Java, Python, C, DSA, Web Development, and Machine Learning</b>.  
-Experienced in building end-to-end applications with a strong focus on <b>performance, scalability, and clean architecture</b>.  
-Actively seeking opportunities to build impactful and innovative products.
-</p>
+### 🛠️ Technical Skills
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
-</p>
-
-### 🌐 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-</p>
-
-### ☁️ Cloud & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,git" />
-</p>
+| **Category**              | **Skills** |
+|--------------------------|------------|
+| **Programming Languages** | Java, Python, JavaScript, C |
+| **Frontend Development**  | React.js, HTML, CSS, Tailwind CSS |
+| **Backend & Databases**   | Node.js, Express.js, MongoDB, PostgreSQL, SQL |
+| **Core Concepts**         | Data Structures & Algorithms, Object-Oriented Programming (OOP), SDLC, Agile Methodology, RESTful APIs, System Design, Microservices |
+| **Cloud & Tools**         | AWS, Git, GitHub, Android Studio |
 
 ---
 
 ## 💼 Work Experience
 
-### 🔹 Full Stack Developer Intern — Unified Mentor  
-📅 Jan 2026 – Present | 🌐 Remote  
+**Full Stack Developer Intern | Unified Mentor**  
+Jan 2026 – Present | Remote  
 
-- Developed responsive web applications using the **MERN Stack**  
-- Delivered **2 end-to-end projects** from design to deployment  
-- Built scalable APIs and optimized application performance  
-- Followed **Agile methodologies** and best coding practices  
+- Developed responsive web applications using the MERN stack (React.js, Node.js, Express.js)  
+- Delivered end-to-end projects from design to deployment with scalable architecture  
+- Built and integrated RESTful APIs with efficient database management  
+- Optimized application performance and ensured code quality using best practices  
+- Followed Agile methodologies for structured and efficient development  
 
 ---
 
 ## 🚀 Key Projects
 
-### 🏡 HomeTown Hub
-- Community networking platform for hometown-based users  
-- Secure authentication and event management system  
-- **Tech:** React, Node.js, Express, MongoDB, JWT, Tailwind  
+| Project Name | Description | Key Features | Technologies | Link |
+|-------------|-------------|--------------|--------------|------|
+| **HomeTown Hub** | A community networking platform connecting users from the same hometown. | - Secure authentication<br>- Event organization<br>- Responsive UI | React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS | [GitHub](https://github.com/sanjana123-dot) |
+| **HunarHub** | A digital portfolio and networking platform for showcasing professional talents. | - Interactive dashboard<br>- Profile management system<br>- Skill networking | Full Stack Web Technologies | [GitHub](https://github.com/sanjana123-dot) |
+| **VIT-AP Bus Tracking** | A real-time GPS mobile application designed to streamline campus commuting. | - Live bus tracking<br>- Passenger monitoring<br>- Route optimization | Java, Android Studio, GPS API | Project |
+| **Course Recommendation Chatbot** | AI-driven chatbot providing personalized course recommendations. | - NLP-based input analysis<br>- Personalized recommendations<br>- Improved accuracy | Python, Machine Learning, NLP, Flask/Streamlit | [GitHub](https://github.com/sanjana123-dot) |
 
 ---
 
-### 🎯 HunarHub
-- Digital portfolio platform for showcasing professional skills  
-- Interactive dashboard and profile management system  
-- **Tech:** Full Stack Web Technologies  
+### 🎓 Education
+
+| Degree/Certificate      | Institute/Board                          | CGPA/Percentage      | Year          |
+|-------------------------|------------------------------------------|----------------------|---------------|
+| **B.Tech in Computer Science** | VIT-AP University                        | 9.01 (Current CGPA)  | 2023 – Present |
 
 ---
 
-### 🚌 VIT-AP Bus Tracking
-- Real-time GPS tracking mobile app for campus transport  
-- Passenger monitoring and route tracking  
-- **Tech:** Java, Android Studio, GPS API  
+### 📜 Certifications
+
+- **AWS Certified Cloud Practitioner** – Amazon Web Services  
+- **Oracle Cloud Infrastructure DevOps Professional** – Oracle  
+- **IBM Certified Gen AI Professional** – IBM  
 
 ---
 
-### 🤖 Course Recommendation Chatbot
-- AI chatbot generating personalized learning paths  
-- Improved recommendation accuracy by **25%**  
-- **Tech:** Python, NLP, ML, Flask/Streamlit  
+### 🌟 Leadership & Achievements
 
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science**  
-📍 VIT-AP University (2023 – Present)  
-🎯 CGPA: **9.01**
-
----
-
-## 🏆 Leadership & Achievements
-
-### 🎖 Positions
-- Event Management Lead — CodeCrux (↑40% participation)  
-- Design Team Lead — Climate Change Club (↑50% reach)  
-
-### 🥇 Achievements
-- Top 3 — Amaravati Quantum Valley Hackathon  
-- Top 5 — AP Space Summit Hackathon  
+- **Event Management Lead** – CodeCrux VIT-AP (Increased participation by 40%)  
+- **Design Team Lead** – Climate Change Club VIT-AP (Expanded reach by 50%)  
+- **Top 3** – Amaravati Quantum Valley Hackathon  
+- **Top 5** – Andhra Pradesh Space Summit Hackathon  
 - Solved **200+ DSA problems** on LeetCode  
 
 ---
 
-## 📜 Certifications
-- AWS Certified Cloud Practitioner – AWS  
-- Oracle Cloud Infrastructure DevOps Professional – Oracle  
-- IBM Certified Gen AI Professional – IBM  
-
----
-
-## 📊 GitHub Analytics
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjana123-dot&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana123-dot&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjana123-dot&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana123-dot&theme=tokyonight" alt="github streak stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana123-dot&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana123-dot&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-⭐ *“Building scalable systems with clean code and real-world impact”*
